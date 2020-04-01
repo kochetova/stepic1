@@ -1,5 +1,6 @@
 import requests
 
+
 with open('/Users/igumnyash/Downloads/dataset_3378_3.txt') as link:
     url = link.readline().strip()
 print(url)

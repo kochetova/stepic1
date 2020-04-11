@@ -3,7 +3,6 @@ m = []
 i = 1
 
 while i <= n:
-    d = {}
     m.append(input().split())
     i += 1
 
